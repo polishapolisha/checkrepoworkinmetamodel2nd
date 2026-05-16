@@ -1,0 +1,78 @@
+﻿{
+  "version": "1.0",
+  "branchId": "2093928f-1c41-46d8-ac2a-c6b5332a9baa",
+  "branchName": "main",
+  "repositoryName": "plswork",
+  "exportedAt": "2026-05-16T13:24:35.763766Z",
+  "objectTypes": [
+    {
+      "id": "9e2b6144-074a-442f-b4a5-02b9f6df6ddc",
+      "code": "CODE-TEST-FIXED",
+      "name": "Тест после фикса",
+      "description": "string",
+      "category": "string",
+      "parentId": null,
+      "parent": null,
+      "children": null,
+      "iconId": null,
+      "icon": null,
+      "isAbstract": true,
+      "createdAt": "2026-05-16T12:58:45.171062Z",
+      "updatedAt": "2026-05-16T12:58:47.067215Z",
+      "parameters": null,
+      "referencedByParameters": null,
+      "branchId": "2093928f-1c41-46d8-ac2a-c6b5332a9baa",
+      "branch": null
+    }
+  ],
+  "typeParameters": [
+    {
+      "id": "4b2daea8-ccbd-4e65-8929-97ef362601c9",
+      "objectTypeId": "9e2b6144-074a-442f-b4a5-02b9f6df6ddc",
+      "objectType": null,
+      "code": "LENGHT13432",
+      "name": "Длина",
+      "description": "Длинадлинадлинатест",
+      "dataType": "int",
+      "unitId": null,
+      "unit": null,
+      "defaultValue": "3",
+      "minValue": 0.000000,
+      "maxValue": 90.000000,
+      "isRequired": true,
+      "isReadonly": true,
+      "displayOrder": 0,
+      "enumValues": null,
+      "referenceTypeId": null,
+      "referenceType": null,
+      "compositeParameterId": null,
+      "compositeParameter": null,
+      "compositeChildren": null,
+      "isCompositeRoot": true,
+      "createdAt": "2026-05-16T13:22:02.733046Z",
+      "updatedAt": "2026-05-16T13:22:02.878226Z",
+      "branchId": "2093928f-1c41-46d8-ac2a-c6b5332a9baa",
+      "branch": null
+    }
+  ],
+  "units": [
+    {
+      "id": "e9d816f3-c2ec-4f8f-96c8-a52a53cf19da",
+      "code": "UNITCODETEST",
+      "name": "тестик",
+      "symbol": "тстсьс",
+      "dimension": "тестиктестик",
+      "siUnitId": null,
+      "siUnit": null,
+      "derivedUnits": null,
+      "conversionFactor": 1,
+      "isBase": true,
+      "createdAt": "2026-05-16T13:23:55.613Z",
+      "updatedAt": "2026-05-16T13:23:55.613033Z",
+      "parameters": null,
+      "branchId": "2093928f-1c41-46d8-ac2a-c6b5332a9baa",
+      "branch": null
+    }
+  ],
+  "images": []
+}
